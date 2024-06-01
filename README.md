@@ -1,0 +1,1 @@
+# manual_calculcation_autoencoder_and_knn
